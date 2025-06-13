@@ -11,10 +11,6 @@ Explore my pinned repositories to discover:
 - 🛠️ Specialized tools designed to enhance software quality assurance
 - 📚 Datasets that provide unique insights into QA practices
 
-Are you a software engineer interested in contributing to open science? Your experiences could shape the future of QA research. Reach out to participate in upcoming studies that delve into the culture of quality assurance in software projects.
+Are you a software engineer interested in contributing to open science? Your experiences could shape the future of QA analytics research. Reach out to participate in upcoming studies that delve into the culture of quality assurance in software projects.
 
-Committed to open science, all my research is freely accessible. Dive deeper into my work: [Here](www.akhatami.com/publications)
-
-Connect with me:
-- 🌐 [www.akhatami.com](www.akhatami.com)
-- 📧 s.khatami at tudelft.nl
+Committed to open science, all my research is freely accessible.
